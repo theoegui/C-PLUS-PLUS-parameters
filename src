@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+
+void printCrap(int x){
+    cout << "Theo's favorite number is " << x << endl;
+
+}
+
+int main ()
+
+{
+    printCrap(69);
+    return 0;
+}
